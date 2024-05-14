@@ -10,7 +10,7 @@ on:
       run-job-3:
         description: "Run job 3"
         required: true
-        type: boolean
+        type: string
 
 jobs:
 
