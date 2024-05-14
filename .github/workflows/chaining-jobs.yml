@@ -2,7 +2,7 @@
 name: Chaining Jobs
 
 
-# Controls when the action will run. Workflow runs when manually triggered using the UI or API.
+# Controls when the action will run. Workflow runs when manually triggered using the UI or API AG.
 on:
   workflow_dispatch:
     # Inputs the workflow accepts.
